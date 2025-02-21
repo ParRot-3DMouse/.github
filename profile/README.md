@@ -2,7 +2,9 @@
 
 ## Project Overview
 ParRotは、3Dモデリングソフトウェアで直感的なカメラ移動を可能にする「トラックボール型3Dマウス」です。
+
 本デバイスは、[2024年度未踏IT人材発掘・育成事業「トラックボール型3Dマウスの開発」](https://www.ipa.go.jp/jinzai/mitou/it/2024/gaiyou-tk-3.html)にて開発がスタートしました。
+
 設計図やソースコードは公開されています。
 
 ## Features
