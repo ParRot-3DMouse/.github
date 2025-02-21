@@ -1,4 +1,4 @@
-# ParRot - TrackBall-typed 3D Mouse
+# 🖲️ ParRot - TrackBall-typed 3D Mouse
 
 ## Project Overview
 ParRotは、3Dモデリングソフトウェアで直感的なカメラ移動を可能にする「トラックボール型3Dマウス」です。
