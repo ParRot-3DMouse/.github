@@ -15,7 +15,7 @@ ParRotは、3Dモデリングソフトウェアで直感的なカメラ移動を
 ## How to create
 
 ### Hardware BuildGuide
-ビルドガイドは[こちら](https://github.com/ParRot-3DMouse/doc/blob/main/1.0/doc/buildguide.md).
+ビルドガイドは[こちら](https://github.com/ParRot-3DMouse/ParRotHardware).
 
 ### Firmware
 ファームウェアは[こちら](https://github.com/ParRot-3DMouse/ParRotFirmware).
